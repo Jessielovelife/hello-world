@@ -1,5 +1,5 @@
 # hello-world
-Hello world by xym in ifeng
+Hello world by Jessie in ifeng
 
 Hi humans!
 Here I would like to make some difference.
